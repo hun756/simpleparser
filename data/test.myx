@@ -1,0 +1,4 @@
+void main(void) {
+    double foo = 1.5;
+    printf("hello it has benn %d years since I learned C. \n", 2022, 2010);
+}
